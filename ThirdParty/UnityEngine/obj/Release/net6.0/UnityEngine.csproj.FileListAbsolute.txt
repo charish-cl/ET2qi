@@ -1,0 +1,12 @@
+H:\Project\UnityProject\ETGameLesson\Bin\net6.0\UnityEngine.deps.json
+H:\Project\UnityProject\ETGameLesson\Bin\net6.0\UnityEngine.dll
+H:\Project\UnityProject\ETGameLesson\Bin\net6.0\UnityEngine.pdb
+H:\Project\UnityProject\ETGameLesson\ThirdParty\UnityEngine\obj\Release\net6.0\UnityEngine.csproj.AssemblyReference.cache
+H:\Project\UnityProject\ETGameLesson\ThirdParty\UnityEngine\obj\Release\net6.0\UnityEngine.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\UnityProject\ETGameLesson\ThirdParty\UnityEngine\obj\Release\net6.0\UnityEngine.AssemblyInfoInputs.cache
+H:\Project\UnityProject\ETGameLesson\ThirdParty\UnityEngine\obj\Release\net6.0\UnityEngine.AssemblyInfo.cs
+H:\Project\UnityProject\ETGameLesson\ThirdParty\UnityEngine\obj\Release\net6.0\UnityEngine.csproj.CoreCompileInputs.cache
+H:\Project\UnityProject\ETGameLesson\ThirdParty\UnityEngine\obj\Release\net6.0\UnityEngine.dll
+H:\Project\UnityProject\ETGameLesson\ThirdParty\UnityEngine\obj\Release\net6.0\refint\UnityEngine.dll
+H:\Project\UnityProject\ETGameLesson\ThirdParty\UnityEngine\obj\Release\net6.0\UnityEngine.pdb
+H:\Project\UnityProject\ETGameLesson\ThirdParty\UnityEngine\obj\Release\net6.0\ref\UnityEngine.dll

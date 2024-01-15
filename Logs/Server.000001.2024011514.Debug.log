@@ -1,0 +1,47 @@
+2024-01-15 14:53:35.4541 (Scene.cs:35) scene create: Process Process 84828352875331585 84828352875331585 0
+2024-01-15 14:53:35.5001 (Program.cs:41) server start........................ 84828352875331585
+2024-01-15 14:53:35.7249 (Scene.cs:50) scene create: Realm Realm 1 262145 1
+2024-01-15 14:53:35.7249 (Scene.cs:50) scene create: Gate Gate1 2 262146 1
+2024-01-15 14:53:35.7249 (Scene.cs:50) scene create: Gate Gate2 3 262147 1
+2024-01-15 14:53:35.7249 (Scene.cs:50) scene create: Location Location 4 262148 1
+2024-01-15 14:53:35.7392 (Scene.cs:50) scene create: Map Map1 5 262149 1
+2024-01-15 14:53:35.7392 (Scene.cs:50) scene create: Map Map2 6 262150 1
+2024-01-15 14:53:35.7392 (Scene.cs:50) scene create: Account Account 7 262151 1
+2024-01-15 14:53:36.1308 (Scene.cs:50) scene create: LoginCenter LoginCenter 8 262152 1
+2024-01-15 14:53:36.1308 (Scene.cs:50) scene create: UnitCache UnitCache 9 262153 1
+2024-01-15 14:53:36.1308 (Scene.cs:50) scene create: Map Game 10 262154 1
+2024-01-15 14:53:36.1308 (Scene.cs:50) scene create: Rank Rank 11 262155 1
+2024-01-15 14:53:36.3008 (ServerInfoManagerComponentSystem.cs:42) serverInfo  count is zero
+   at ET.ServerInfoManagerComponentSystem.Awake(ServerInfoManagerComponent self) in D:\UnityProject\ET2qi\Server\Hotfix\Demo\ServerInfo\ServerInfoManagerComponentSystem.cs:line 42
+   at ET.ETTask`1.SetResult(T result) in D:\UnityProject\ET2qi\Unity\Assets\ThirdParty\ETTask\ETTask.cs:line 295
+   at ET.ETAsyncTaskMethodBuilder`1.SetResult(T ret) in D:\UnityProject\ET2qi\Unity\Assets\ThirdParty\ETTask\AsyncETTaskMethodBuilder.cs:line 94
+   at ET.DBComponentSystem.Query[T](DBComponent self, Expression`1 filter, String collection) in D:\UnityProject\ET2qi\Server\Hotfix\Module\DB\DBComponentSystem.cs:line 0
+   at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation.<>c.<.cctor>b__8_0(Object state)
+   at ET.ThreadSynchronizationContext.<>c__DisplayClass8_0.<Post>b__0() in D:\UnityProject\ET2qi\Unity\Assets\Mono\Core\ThreadSynchronizationContext.cs:line 45
+   at ET.ThreadSynchronizationContext.Update() in D:\UnityProject\ET2qi\Unity\Assets\Mono\Core\ThreadSynchronizationContext.cs:line 34
+   at ET.Game.Update() in D:\UnityProject\ET2qi\Unity\Codes\Model\Core\Entity\Game.cs:line 38
+   at ET.Program.Main(String[] args) in D:\UnityProject\ET2qi\Server\App\Program.cs:line 50
+
+2024-01-15 14:53:36.4153 (Scene.cs:50) scene create: ChatInfo ChatInfo 12 262156 1
+2024-01-15 14:53:54.3022 (Session.cs:36) session create: zone: 1 id: 8589934592 1705301634301 
+2024-01-15 14:53:54.3601 (TChannel.cs:404) TChannel OnError: 100208 127.0.0.1:56242
+2024-01-15 14:53:54.3601 (TChannel.cs:102) channel dispose: 8589934592 127.0.0.1:56242
+2024-01-15 14:53:54.3641 (Session.cs:52) session dispose: 127.0.0.1:56242 id: 8589934592 ErrorCode: 100208, please see ErrorCode.cs! 1705301634364
+2024-01-15 14:58:55.8209 (Scene.cs:35) scene create: Process Process 84850343107887105 84850343107887105 0
+2024-01-15 14:58:55.8578 (Program.cs:41) server start........................ 84850343107887105
+2024-01-15 14:58:56.0448 (Scene.cs:50) scene create: Realm Realm 1 262145 1
+2024-01-15 14:58:56.0557 (Scene.cs:50) scene create: Gate Gate1 2 262146 1
+2024-01-15 14:58:56.0557 (Scene.cs:50) scene create: Gate Gate2 3 262147 1
+2024-01-15 14:58:56.0557 (Scene.cs:50) scene create: Location Location 4 262148 1
+2024-01-15 14:58:56.0557 (Scene.cs:50) scene create: Map Map1 5 262149 1
+2024-01-15 14:58:56.0557 (Scene.cs:50) scene create: Map Map2 6 262150 1
+2024-01-15 14:58:56.0557 (Scene.cs:50) scene create: Account Account 7 262151 1
+2024-01-15 14:58:56.3713 (Scene.cs:50) scene create: LoginCenter LoginCenter 8 262152 1
+2024-01-15 14:58:56.3713 (Scene.cs:50) scene create: UnitCache UnitCache 9 262153 1
+2024-01-15 14:58:56.3713 (Scene.cs:50) scene create: Map Game 10 262154 1
+2024-01-15 14:58:56.3713 (Scene.cs:50) scene create: Rank Rank 11 262155 1
+2024-01-15 14:58:56.5329 (Scene.cs:50) scene create: ChatInfo ChatInfo 12 262156 1
+2024-01-15 14:59:16.9710 (Session.cs:36) session create: zone: 1 id: 8589934592 1705301956970 
+2024-01-15 14:59:17.0301 (TChannel.cs:404) TChannel OnError: 100208 127.0.0.1:56551
+2024-01-15 14:59:17.0301 (TChannel.cs:102) channel dispose: 8589934592 127.0.0.1:56551
+2024-01-15 14:59:17.0301 (Session.cs:52) session dispose: 127.0.0.1:56551 id: 8589934592 ErrorCode: 100208, please see ErrorCode.cs! 1705301957035

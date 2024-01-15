@@ -1,0 +1,16 @@
+E:\Project\UnityProject\ETMaster\ET\Tools\Proto2CS\Bin\Proto2CS.exe
+E:\Project\UnityProject\ETMaster\ET\Tools\Proto2CS\Bin\Proto2CS.deps.json
+E:\Project\UnityProject\ETMaster\ET\Tools\Proto2CS\Bin\Proto2CS.runtimeconfig.json
+E:\Project\UnityProject\ETMaster\ET\Tools\Proto2CS\Bin\Proto2CS.runtimeconfig.dev.json
+E:\Project\UnityProject\ETMaster\ET\Tools\Proto2CS\Bin\Proto2CS.dll
+E:\Project\UnityProject\ETMaster\ET\Tools\Proto2CS\Bin\ref\Proto2CS.dll
+E:\Project\UnityProject\ETMaster\ET\Tools\Proto2CS\Bin\Proto2CS.pdb
+E:\Project\UnityProject\ETMaster\ET\Tools\Proto2CS\obj\Debug\Proto2CS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\UnityProject\ETMaster\ET\Tools\Proto2CS\obj\Debug\Proto2CS.AssemblyInfoInputs.cache
+E:\Project\UnityProject\ETMaster\ET\Tools\Proto2CS\obj\Debug\Proto2CS.AssemblyInfo.cs
+E:\Project\UnityProject\ETMaster\ET\Tools\Proto2CS\obj\Debug\Proto2CS.csproj.CoreCompileInputs.cache
+E:\Project\UnityProject\ETMaster\ET\Tools\Proto2CS\obj\Debug\Proto2CS.dll
+E:\Project\UnityProject\ETMaster\ET\Tools\Proto2CS\obj\Debug\ref\Proto2CS.dll
+E:\Project\UnityProject\ETMaster\ET\Tools\Proto2CS\obj\Debug\Proto2CS.pdb
+E:\Project\UnityProject\ETMaster\ET\Tools\Proto2CS\obj\Debug\Proto2CS.genruntimeconfig.cache
+E:\Project\UnityProject\ETMaster\ET\Tools\Proto2CS\obj\Debug\Proto2CS.csproj.AssemblyReference.cache

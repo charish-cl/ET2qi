@@ -1,0 +1,11 @@
+2024-01-15 14:53:36.3008 serverInfo  count is zero
+   at ET.ServerInfoManagerComponentSystem.Awake(ServerInfoManagerComponent self) in D:\UnityProject\ET2qi\Server\Hotfix\Demo\ServerInfo\ServerInfoManagerComponentSystem.cs:line 42
+   at ET.ETTask`1.SetResult(T result) in D:\UnityProject\ET2qi\Unity\Assets\ThirdParty\ETTask\ETTask.cs:line 295
+   at ET.ETAsyncTaskMethodBuilder`1.SetResult(T ret) in D:\UnityProject\ET2qi\Unity\Assets\ThirdParty\ETTask\AsyncETTaskMethodBuilder.cs:line 94
+   at ET.DBComponentSystem.Query[T](DBComponent self, Expression`1 filter, String collection) in D:\UnityProject\ET2qi\Server\Hotfix\Module\DB\DBComponentSystem.cs:line 0
+   at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation.<>c.<.cctor>b__8_0(Object state)
+   at ET.ThreadSynchronizationContext.<>c__DisplayClass8_0.<Post>b__0() in D:\UnityProject\ET2qi\Unity\Assets\Mono\Core\ThreadSynchronizationContext.cs:line 45
+   at ET.ThreadSynchronizationContext.Update() in D:\UnityProject\ET2qi\Unity\Assets\Mono\Core\ThreadSynchronizationContext.cs:line 34
+   at ET.Game.Update() in D:\UnityProject\ET2qi\Unity\Codes\Model\Core\Entity\Game.cs:line 38
+   at ET.Program.Main(String[] args) in D:\UnityProject\ET2qi\Server\App\Program.cs:line 50
+

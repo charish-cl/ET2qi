@@ -1,0 +1,12 @@
+H:\Project\UnityProject\ETGameLesson\Bin\ETTask.deps.json
+H:\Project\UnityProject\ETGameLesson\Bin\ETTask.dll
+H:\Project\UnityProject\ETGameLesson\Bin\ETTask.pdb
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ETTask\obj\Release\ETTask.csproj.AssemblyReference.cache
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ETTask\obj\Release\ETTask.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ETTask\obj\Release\ETTask.AssemblyInfoInputs.cache
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ETTask\obj\Release\ETTask.AssemblyInfo.cs
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ETTask\obj\Release\ETTask.csproj.CoreCompileInputs.cache
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ETTask\obj\Release\ETTask.dll
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ETTask\obj\Release\refint\ETTask.dll
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ETTask\obj\Release\ETTask.pdb
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ETTask\obj\Release\ref\ETTask.dll

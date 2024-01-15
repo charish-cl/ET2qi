@@ -1,0 +1,12 @@
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\UnityEngine\bin\Release\net5.0\UnityEngine.deps.json
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\UnityEngine\bin\Release\net5.0\UnityEngine.dll
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\UnityEngine\bin\Release\net5.0\ref\UnityEngine.dll
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\UnityEngine\bin\Release\net5.0\UnityEngine.pdb
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\UnityEngine\obj\Release\net5.0\UnityEngine.csproj.AssemblyReference.cache
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\UnityEngine\obj\Release\net5.0\UnityEngine.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\UnityEngine\obj\Release\net5.0\UnityEngine.AssemblyInfoInputs.cache
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\UnityEngine\obj\Release\net5.0\UnityEngine.AssemblyInfo.cs
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\UnityEngine\obj\Release\net5.0\UnityEngine.csproj.CoreCompileInputs.cache
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\UnityEngine\obj\Release\net5.0\UnityEngine.dll
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\UnityEngine\obj\Release\net5.0\ref\UnityEngine.dll
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\UnityEngine\obj\Release\net5.0\UnityEngine.pdb

@@ -1,0 +1,17 @@
+H:\Project\UnityProject\ETGameLesson\Bin\linux-x64\libRecastDll.dylib
+H:\Project\UnityProject\ETGameLesson\Bin\linux-x64\RecastDll.dll
+H:\Project\UnityProject\ETGameLesson\Bin\linux-x64\libkcp.dylib
+H:\Project\UnityProject\ETGameLesson\Bin\linux-x64\kcp.dll
+H:\Project\UnityProject\ETGameLesson\Bin\linux-x64\Server.Hotfix.deps.json
+H:\Project\UnityProject\ETGameLesson\Bin\linux-x64\Server.Hotfix.dll
+H:\Project\UnityProject\ETGameLesson\Bin\linux-x64\Server.Hotfix.pdb
+H:\Project\UnityProject\ETGameLesson\Server\Hotfix\obj\Debug\linux-x64\Server.Hotfix.csproj.AssemblyReference.cache
+H:\Project\UnityProject\ETGameLesson\Server\Hotfix\obj\Debug\linux-x64\Server.Hotfix.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\UnityProject\ETGameLesson\Server\Hotfix\obj\Debug\linux-x64\Server.Hotfix.AssemblyInfoInputs.cache
+H:\Project\UnityProject\ETGameLesson\Server\Hotfix\obj\Debug\linux-x64\Server.Hotfix.AssemblyInfo.cs
+H:\Project\UnityProject\ETGameLesson\Server\Hotfix\obj\Debug\linux-x64\Server.Hotfix.csproj.CoreCompileInputs.cache
+H:\Project\UnityProject\ETGameLesson\Server\Hotfix\obj\Debug\linux-x64\Server.Hotfix.csproj.CopyComplete
+H:\Project\UnityProject\ETGameLesson\Server\Hotfix\obj\Debug\linux-x64\Server.Hotfix.dll
+H:\Project\UnityProject\ETGameLesson\Server\Hotfix\obj\Debug\linux-x64\refint\Server.Hotfix.dll
+H:\Project\UnityProject\ETGameLesson\Server\Hotfix\obj\Debug\linux-x64\Server.Hotfix.pdb
+H:\Project\UnityProject\ETGameLesson\Server\Hotfix\obj\Debug\linux-x64\ref\Server.Hotfix.dll

@@ -1,0 +1,12 @@
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\bin\Release\net5.0\linux-x64\protobuf-net.deps.json
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\bin\Release\net5.0\linux-x64\protobuf-net.dll
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\bin\Release\net5.0\linux-x64\ref\protobuf-net.dll
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\bin\Release\net5.0\linux-x64\protobuf-net.pdb
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\obj\Release\net5.0\linux-x64\protobuf-net.csproj.AssemblyReference.cache
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\obj\Release\net5.0\linux-x64\protobuf-net.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\obj\Release\net5.0\linux-x64\protobuf-net.AssemblyInfoInputs.cache
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\obj\Release\net5.0\linux-x64\protobuf-net.AssemblyInfo.cs
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\obj\Release\net5.0\linux-x64\protobuf-net.csproj.CoreCompileInputs.cache
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\obj\Release\net5.0\linux-x64\protobuf-net.dll
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\obj\Release\net5.0\linux-x64\ref\protobuf-net.dll
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\obj\Release\net5.0\linux-x64\protobuf-net.pdb

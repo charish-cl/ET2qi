@@ -1,0 +1,13 @@
+H:\Project\UnityProject\ETGameLesson\ServerBuild\Server.pdb
+H:\Project\UnityProject\ETGameLesson\ServerBuild\NLog.config
+H:\Project\UnityProject\ETGameLesson\ServerBuild\libRecastDll.dylib
+H:\Project\UnityProject\ETGameLesson\ServerBuild\RecastDll.dll
+H:\Project\UnityProject\ETGameLesson\ServerBuild\libkcp.dylib
+H:\Project\UnityProject\ETGameLesson\ServerBuild\kcp.dll
+H:\Project\UnityProject\ETGameLesson\ServerBuild\Server.dll.config
+H:\Project\UnityProject\ETGameLesson\ServerBuild\libmongocrypt.so
+H:\Project\UnityProject\ETGameLesson\ServerBuild\Server.Model.pdb
+H:\Project\UnityProject\ETGameLesson\ServerBuild\ETTask.pdb
+H:\Project\UnityProject\ETGameLesson\ServerBuild\ShareLib.pdb
+H:\Project\UnityProject\ETGameLesson\ServerBuild\UnityEngine.pdb
+H:\Project\UnityProject\ETGameLesson\ServerBuild\Server

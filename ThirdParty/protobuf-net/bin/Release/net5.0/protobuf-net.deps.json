@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "protobuf-net/1.0.0": {
+        "runtime": {
+          "protobuf-net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "protobuf-net/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

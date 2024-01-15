@@ -1,0 +1,10 @@
+H:\Project\UnityProject\ETGameLesson\Tools\Analyzer\bin\Release\netstandard2.0\Analyzer.deps.json
+H:\Project\UnityProject\ETGameLesson\Tools\Analyzer\bin\Release\netstandard2.0\Analyzer.dll
+H:\Project\UnityProject\ETGameLesson\Tools\Analyzer\bin\Release\netstandard2.0\Analyzer.pdb
+H:\Project\UnityProject\ETGameLesson\Tools\Analyzer\obj\Release\netstandard2.0\Analyzer.csproj.AssemblyReference.cache
+H:\Project\UnityProject\ETGameLesson\Tools\Analyzer\obj\Release\netstandard2.0\Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\UnityProject\ETGameLesson\Tools\Analyzer\obj\Release\netstandard2.0\Analyzer.AssemblyInfoInputs.cache
+H:\Project\UnityProject\ETGameLesson\Tools\Analyzer\obj\Release\netstandard2.0\Analyzer.AssemblyInfo.cs
+H:\Project\UnityProject\ETGameLesson\Tools\Analyzer\obj\Release\netstandard2.0\Analyzer.csproj.CoreCompileInputs.cache
+H:\Project\UnityProject\ETGameLesson\Tools\Analyzer\obj\Release\netstandard2.0\Analyzer.dll
+H:\Project\UnityProject\ETGameLesson\Tools\Analyzer\obj\Release\netstandard2.0\Analyzer.pdb

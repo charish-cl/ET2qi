@@ -1,0 +1,12 @@
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\bin\Debug\net5.0\protobuf-net.deps.json
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\bin\Debug\net5.0\protobuf-net.dll
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\bin\Debug\net5.0\ref\protobuf-net.dll
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\bin\Debug\net5.0\protobuf-net.pdb
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\obj\Debug\net5.0\protobuf-net.csprojAssemblyReference.cache
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\obj\Debug\net5.0\protobuf-net.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\obj\Debug\net5.0\protobuf-net.AssemblyInfoInputs.cache
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\obj\Debug\net5.0\protobuf-net.AssemblyInfo.cs
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\obj\Debug\net5.0\protobuf-net.csproj.CoreCompileInputs.cache
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\obj\Debug\net5.0\protobuf-net.dll
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\obj\Debug\net5.0\ref\protobuf-net.dll
+E:\Project\UnityProject\ETMaster\ET\ThirdParty\protobuf-net\obj\Debug\net5.0\protobuf-net.pdb

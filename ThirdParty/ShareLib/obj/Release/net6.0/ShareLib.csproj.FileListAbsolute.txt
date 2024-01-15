@@ -1,0 +1,17 @@
+H:\Project\UnityProject\ETGameLesson\Bin\net6.0\libRecastDll.dylib
+H:\Project\UnityProject\ETGameLesson\Bin\net6.0\RecastDll.dll
+H:\Project\UnityProject\ETGameLesson\Bin\net6.0\libkcp.dylib
+H:\Project\UnityProject\ETGameLesson\Bin\net6.0\kcp.dll
+H:\Project\UnityProject\ETGameLesson\Bin\net6.0\ShareLib.deps.json
+H:\Project\UnityProject\ETGameLesson\Bin\net6.0\ShareLib.dll
+H:\Project\UnityProject\ETGameLesson\Bin\net6.0\ShareLib.pdb
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ShareLib\obj\Release\net6.0\ShareLib.csproj.AssemblyReference.cache
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ShareLib\obj\Release\net6.0\ShareLib.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ShareLib\obj\Release\net6.0\ShareLib.AssemblyInfoInputs.cache
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ShareLib\obj\Release\net6.0\ShareLib.AssemblyInfo.cs
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ShareLib\obj\Release\net6.0\ShareLib.csproj.CoreCompileInputs.cache
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ShareLib\obj\Release\net6.0\ShareLib.csproj.CopyComplete
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ShareLib\obj\Release\net6.0\ShareLib.dll
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ShareLib\obj\Release\net6.0\refint\ShareLib.dll
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ShareLib\obj\Release\net6.0\ShareLib.pdb
+H:\Project\UnityProject\ETGameLesson\ThirdParty\ShareLib\obj\Release\net6.0\ref\ShareLib.dll

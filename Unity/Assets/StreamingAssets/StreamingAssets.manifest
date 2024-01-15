@@ -1,0 +1,142 @@
+ManifestFileVersion: 0
+CRC: 3124524721
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: config.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: unit.unity3d
+      Dependencies:
+        Dependency_0: knight.unity3d
+    Info_2:
+      Name: esreuseui.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: item_test.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: dlglogin.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: dlglobby.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: reddot.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: common.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: code.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: item_servertest.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: dlgreddot.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: map1.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: map2.unity3d
+      Dependencies: {}
+    Info_13:
+      Name: uihelp.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: dlghelper.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: dlgserver.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: item_role.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: dlgroles.unity3d
+      Dependencies: {}
+    Info_18:
+      Name: knight.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: game.unity3d
+      Dependencies: {}
+    Info_20:
+      Name: dlgmain.unity3d
+      Dependencies: {}
+    Info_21:
+      Name: dlgloading.unity3d
+      Dependencies: {}
+    Info_22:
+      Name: icons.unity3d
+      Dependencies: {}
+    Info_23:
+      Name: es_equipitem.unity3d
+      Dependencies: {}
+    Info_24:
+      Name: es_attributeitem.unity3d
+      Dependencies: {}
+    Info_25:
+      Name: item_attribute.unity3d
+      Dependencies: {}
+    Info_26:
+      Name: dlgroleinfo.unity3d
+      Dependencies:
+        Dependency_0: es_equipitem.unity3d
+        Dependency_1: es_attributeitem.unity3d
+    Info_27:
+      Name: dlgadventure.unity3d
+      Dependencies: {}
+    Info_28:
+      Name: item_battlelevel.unity3d
+      Dependencies: {}
+    Info_29:
+      Name: baoyu.unity3d
+      Dependencies: {}
+    Info_30:
+      Name: dlgbag.unity3d
+      Dependencies: {}
+    Info_31:
+      Name: item_bagitem.unity3d
+      Dependencies: {}
+    Info_32:
+      Name: flydamagevalue.unity3d
+      Dependencies: {}
+    Info_33:
+      Name: dlgitempopup.unity3d
+      Dependencies: {}
+    Info_34:
+      Name: item_entry.unity3d
+      Dependencies: {}
+    Info_35:
+      Name: item_makequeue.unity3d
+      Dependencies:
+        Dependency_0: es_equipitem.unity3d
+    Info_36:
+      Name: dlgforge.unity3d
+      Dependencies:
+        Dependency_0: es_equipitem.unity3d
+    Info_37:
+      Name: item_production.unity3d
+      Dependencies:
+        Dependency_0: es_equipitem.unity3d
+    Info_38:
+      Name: item_task.unity3d
+      Dependencies: {}
+    Info_39:
+      Name: dlgtask.unity3d
+      Dependencies: {}
+    Info_40:
+      Name: item_rank.unity3d
+      Dependencies: {}
+    Info_41:
+      Name: dlgrank.unity3d
+      Dependencies: {}
+    Info_42:
+      Name: item_chat.unity3d
+      Dependencies: {}
+    Info_43:
+      Name: dlgchat.unity3d
+      Dependencies: {}

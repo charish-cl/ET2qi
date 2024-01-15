@@ -1,0 +1,40 @@
+2024-01-15 15:03:03.5716 (Session.cs:36) session create: zone: 1 id: 12884901888 1705302183571 
+2024-01-15 15:03:03.6024 (TChannel.cs:404) TChannel OnError: 100208 127.0.0.1:56626
+2024-01-15 15:03:03.6024 (TChannel.cs:102) channel dispose: 12884901888 127.0.0.1:56626
+2024-01-15 15:03:03.6024 (Session.cs:52) session dispose: 127.0.0.1:56626 id: 12884901888 ErrorCode: 100208, please see ErrorCode.cs! 1705302183603
+2024-01-15 15:03:19.4440 (Scene.cs:35) scene create: Process Process 84868485049745409 84868485049745409 0
+2024-01-15 15:03:19.4954 (Program.cs:41) server start........................ 84868485049745409
+2024-01-15 15:03:19.8336 (Scene.cs:50) scene create: Realm Realm 1 262145 1
+2024-01-15 15:03:19.8526 (Scene.cs:50) scene create: Gate Gate1 2 262146 1
+2024-01-15 15:03:19.8526 (Scene.cs:50) scene create: Gate Gate2 3 262147 1
+2024-01-15 15:03:19.8526 (Scene.cs:50) scene create: Location Location 4 262148 1
+2024-01-15 15:03:19.8526 (Scene.cs:50) scene create: Map Map1 5 262149 1
+2024-01-15 15:03:19.8526 (Scene.cs:50) scene create: Map Map2 6 262150 1
+2024-01-15 15:03:19.8526 (Scene.cs:50) scene create: Account Account 7 262151 1
+2024-01-15 15:03:20.5501 (Scene.cs:50) scene create: LoginCenter LoginCenter 8 262152 1
+2024-01-15 15:03:20.5501 (Scene.cs:50) scene create: UnitCache UnitCache 9 262153 1
+2024-01-15 15:03:20.5536 (Scene.cs:50) scene create: Map Game 10 262154 1
+2024-01-15 15:03:20.5536 (Scene.cs:50) scene create: Rank Rank 11 262155 1
+2024-01-15 15:03:21.0654 (Scene.cs:50) scene create: ChatInfo ChatInfo 12 262156 1
+2024-01-15 15:03:24.1403 (Session.cs:36) session create: zone: 1 id: 8589934592 1705302204139 
+2024-01-15 15:03:24.1980 (TChannel.cs:404) TChannel OnError: 100208 127.0.0.1:56638
+2024-01-15 15:03:24.1980 (TChannel.cs:102) channel dispose: 8589934592 127.0.0.1:56638
+2024-01-15 15:03:24.2099 (Session.cs:52) session dispose: 127.0.0.1:56638 id: 8589934592 ErrorCode: 100208, please see ErrorCode.cs! 1705302204209
+2024-01-15 15:04:01.5717 (Scene.cs:35) scene create: Process Process 84871371267768321 84871371267768321 0
+2024-01-15 15:04:01.6106 (Program.cs:41) server start........................ 84871371267768321
+2024-01-15 15:04:01.7867 (Scene.cs:50) scene create: Realm Realm 1 262145 1
+2024-01-15 15:04:01.7867 (Scene.cs:50) scene create: Gate Gate1 2 262146 1
+2024-01-15 15:04:01.7867 (Scene.cs:50) scene create: Gate Gate2 3 262147 1
+2024-01-15 15:04:01.7867 (Scene.cs:50) scene create: Location Location 4 262148 1
+2024-01-15 15:04:01.7867 (Scene.cs:50) scene create: Map Map1 5 262149 1
+2024-01-15 15:04:01.7867 (Scene.cs:50) scene create: Map Map2 6 262150 1
+2024-01-15 15:04:01.7867 (Scene.cs:50) scene create: Account Account 7 262151 1
+2024-01-15 15:04:02.0695 (Scene.cs:50) scene create: LoginCenter LoginCenter 8 262152 1
+2024-01-15 15:04:02.0695 (Scene.cs:50) scene create: UnitCache UnitCache 9 262153 1
+2024-01-15 15:04:02.0695 (Scene.cs:50) scene create: Map Game 10 262154 1
+2024-01-15 15:04:02.0695 (Scene.cs:50) scene create: Rank Rank 11 262155 1
+2024-01-15 15:04:02.2053 (Scene.cs:50) scene create: ChatInfo ChatInfo 12 262156 1
+2024-01-15 15:04:19.1276 (Session.cs:36) session create: zone: 1 id: 8589934592 1705302259127 
+2024-01-15 15:04:19.1732 (TChannel.cs:404) TChannel OnError: 100208 127.0.0.1:56664
+2024-01-15 15:04:19.1732 (TChannel.cs:102) channel dispose: 8589934592 127.0.0.1:56664
+2024-01-15 15:04:19.1732 (Session.cs:52) session dispose: 127.0.0.1:56664 id: 8589934592 ErrorCode: 100208, please see ErrorCode.cs! 1705302259176

@@ -1,0 +1,36 @@
+2024-01-15 14:53:35.4541 scene create: Process Process 84828352875331585 84828352875331585 0
+2024-01-15 14:53:35.5001 server start........................ 84828352875331585
+2024-01-15 14:53:35.7249 scene create: Realm Realm 1 262145 1
+2024-01-15 14:53:35.7249 scene create: Gate Gate1 2 262146 1
+2024-01-15 14:53:35.7249 scene create: Gate Gate2 3 262147 1
+2024-01-15 14:53:35.7249 scene create: Location Location 4 262148 1
+2024-01-15 14:53:35.7392 scene create: Map Map1 5 262149 1
+2024-01-15 14:53:35.7392 scene create: Map Map2 6 262150 1
+2024-01-15 14:53:35.7392 scene create: Account Account 7 262151 1
+2024-01-15 14:53:36.1308 scene create: LoginCenter LoginCenter 8 262152 1
+2024-01-15 14:53:36.1308 scene create: UnitCache UnitCache 9 262153 1
+2024-01-15 14:53:36.1308 scene create: Map Game 10 262154 1
+2024-01-15 14:53:36.1308 scene create: Rank Rank 11 262155 1
+2024-01-15 14:53:36.4153 scene create: ChatInfo ChatInfo 12 262156 1
+2024-01-15 14:53:54.3022 session create: zone: 1 id: 8589934592 1705301634301 
+2024-01-15 14:53:54.3601 TChannel OnError: 100208 127.0.0.1:56242
+2024-01-15 14:53:54.3601 channel dispose: 8589934592 127.0.0.1:56242
+2024-01-15 14:53:54.3641 session dispose: 127.0.0.1:56242 id: 8589934592 ErrorCode: 100208, please see ErrorCode.cs! 1705301634364
+2024-01-15 14:58:55.8209 scene create: Process Process 84850343107887105 84850343107887105 0
+2024-01-15 14:58:55.8578 server start........................ 84850343107887105
+2024-01-15 14:58:56.0448 scene create: Realm Realm 1 262145 1
+2024-01-15 14:58:56.0557 scene create: Gate Gate1 2 262146 1
+2024-01-15 14:58:56.0557 scene create: Gate Gate2 3 262147 1
+2024-01-15 14:58:56.0557 scene create: Location Location 4 262148 1
+2024-01-15 14:58:56.0557 scene create: Map Map1 5 262149 1
+2024-01-15 14:58:56.0557 scene create: Map Map2 6 262150 1
+2024-01-15 14:58:56.0557 scene create: Account Account 7 262151 1
+2024-01-15 14:58:56.3713 scene create: LoginCenter LoginCenter 8 262152 1
+2024-01-15 14:58:56.3713 scene create: UnitCache UnitCache 9 262153 1
+2024-01-15 14:58:56.3713 scene create: Map Game 10 262154 1
+2024-01-15 14:58:56.3713 scene create: Rank Rank 11 262155 1
+2024-01-15 14:58:56.5329 scene create: ChatInfo ChatInfo 12 262156 1
+2024-01-15 14:59:16.9710 session create: zone: 1 id: 8589934592 1705301956970 
+2024-01-15 14:59:17.0301 TChannel OnError: 100208 127.0.0.1:56551
+2024-01-15 14:59:17.0301 channel dispose: 8589934592 127.0.0.1:56551
+2024-01-15 14:59:17.0301 session dispose: 127.0.0.1:56551 id: 8589934592 ErrorCode: 100208, please see ErrorCode.cs! 1705301957035

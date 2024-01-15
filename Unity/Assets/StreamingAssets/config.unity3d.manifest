@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2902570268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1999e2e12c84cc66e02f9b076665ac48
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/StartConfig/Localhost/AIConfigCategory.bytes
+- Assets/Bundles/Config/AIConfigCategory.bytes
+- Assets/Bundles/Config/StartConfig/Release/AIConfigCategory.bytes
+- Assets/Bundles/Config/StartConfig/Release/BattleLevelConfigCategory.bytes
+- Assets/Bundles/Config/StartMachineConfigCategory.bytes
+- Assets/Bundles/Config/PlayerLevelConfigCategory.bytes
+- Assets/Bundles/Config/StartSceneConfigCategory.bytes
+- Assets/Bundles/Config/ForgeProductionConfigCategory.bytes
+- Assets/Bundles/Config/StartConfig/Release/UnitConfigCategory.bytes
+- Assets/Bundles/Config/TaskActionConfigCategory.bytes
+- Assets/Bundles/Config/ItemConfigCategory.bytes
+- Assets/Bundles/Config/UnitConfigCategory.bytes
+- Assets/Bundles/Config/PlayerNumericConfigCategory.bytes
+- Assets/Bundles/Config/StartConfig/Localhost/UnitConfigCategory.bytes
+- Assets/Bundles/Config/StartConfig/Localhost/BattleLevelConfigCategory.bytes
+- Assets/Bundles/Config/TaskConfigCategory.bytes
+- Assets/Bundles/Config/StartProcessConfigCategory.bytes
+- Assets/Bundles/Config/BattleLevelConfigCategory.bytes
+- Assets/Bundles/Config/TaskRewardConfigCategory.bytes
+- Assets/Bundles/Config/StartZoneConfigCategory.bytes
+- Assets/Bundles/Config/ServerInfoConfigCategory.bytes
+Dependencies: []
