@@ -43,6 +43,7 @@ namespace ET
         public static async ETTask<Entity> Get(this UnitCache self, long unitId)
         {
             Entity entity = null;
+            //如果内存缓存中没有就从数据库中获取
             if (!self.CacheCompoenntsDictionary.TryGetValue(unitId,out entity))
             {
                 entity = await DBManagerComponent.Instance.GetZoneDB(self.DomainZone()).Query<Entity>(unitId, self.key);

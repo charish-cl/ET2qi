@@ -13,7 +13,7 @@ namespace ET
             try
             {
                 if (request.ComponentNameList.Count == 0)
-                {
+                { 
                     dictionary.Add(nameof (Unit), null);
                     foreach (string s in unitCacheComponent.UnitCacheKeyList)
                     {
@@ -27,18 +27,19 @@ namespace ET
                         dictionary.Add(s, null);
                     }
                 }
-
+    
                 foreach (var key in dictionary.Keys)
                 {
                     Entity entity = await unitCacheComponent.Get(request.UnitId,key);
                     dictionary[key] = entity;
                 }
-                
+                //填充response
                 response.ComponentNameList.AddRange(dictionary.Keys);
                 response.EntityList.AddRange(dictionary.Values);
             }
             finally
             {
+                //二次使用前清空，以便复用
                 dictionary.Clear();
                 MonoPool.Instance.Recycle(dictionary);
             }

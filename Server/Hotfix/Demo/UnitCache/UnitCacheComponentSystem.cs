@@ -47,6 +47,7 @@ namespace ET
         
         public static async ETTask<Entity> Get(this UnitCacheComponent self, long unitId,string key) 
         {
+            //不存在就创建
             if (!self.UnitCaches.TryGetValue(key,out UnitCache unitCache))
             {
                 unitCache = self.AddChild<UnitCache>();
@@ -79,6 +80,7 @@ namespace ET
                     string key = entity.GetType().Name;
                     if (!self.UnitCaches.TryGetValue(key,out UnitCache unitCache))
                     {
+                        //不存在就创建
                         unitCache = self.AddChild<UnitCache>();
                         unitCache.key = key;
                         self.UnitCaches.Add(key, unitCache);
@@ -86,6 +88,7 @@ namespace ET
                     unitCache.AddOrUpdate(entity);
                     list.Add(entity);
                 }
+                //批量存储，写入数据库
                 if (list.Count > 0)
                 {
                     await DBManagerComponent.Instance.GetZoneDB(self.DomainZone()).Save(id, list);
