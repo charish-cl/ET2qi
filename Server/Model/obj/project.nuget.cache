@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZUAe30iFy+Z/SH+vMx8sOH00CjlGU7lGqdV30jCHuQdEfQDaGn5xN2AA0LKWRMpoSjv8hBCYSg3Mk9WB/OxGXA==",
+  "dgSpecHash": "zSkaLjxWv/ZKptm+SvXDKeHhOYywdQb6KNEW5lcS78ncZacE2VY4mcQqsUFeTgIGNWGmfKivfdnsYiM5WkEVtQ==",
   "success": true,
   "projectFilePath": "D:\\UnityProject\\ET2qi\\Server\\Model\\Server.Model.csproj",
   "expectedPackageFiles": [
@@ -105,7 +105,10 @@
     "C:\\Users\\47643\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\47643\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\47643\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\47643\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\47643\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\47643\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\47643\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\47643\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
   ],
   "logs": []
 }

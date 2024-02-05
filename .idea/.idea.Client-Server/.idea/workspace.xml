@@ -27,7 +27,6 @@
 }</component>
   <component name="ProjectId" id="2ayp1xev0CcC5PyXrbOleXN2KJd" />
   <component name="ProjectViewState">
-    <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="openDirectoriesWithSingleClick" value="true" />
@@ -125,6 +124,7 @@
       <workItem from="1705314301179" duration="1032000" />
       <workItem from="1705316869722" duration="3383000" />
       <workItem from="1705321136729" duration="3250000" />
+      <workItem from="1706351636419" duration="1155000" />
     </task>
     <servers />
   </component>

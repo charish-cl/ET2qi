@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NJTQhZ9Bt7JxkomaJAl+fYTzaYpUgX80AknUeAvUZv/w1SNuEVSwq1wpf6P2fgC533vlBRQ3IUNOxWZogoWviw==",
+  "dgSpecHash": "KCYfVYh0k3gXjasqyFtw4RwUqKW/aoRS8WJltwCPKF7U+2duU+/f8WLuO+NYdShIRPykp+DDNpNI4xNZDHSiaQ==",
   "success": true,
   "projectFilePath": "D:\\UnityProject\\ET2qi\\Robot\\Model\\Robot.Model.csproj",
   "expectedPackageFiles": [
@@ -105,7 +105,10 @@
     "C:\\Users\\47643\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\47643\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\47643\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\47643\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\47643\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\47643\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\47643\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\47643\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
   ],
   "logs": []
 }

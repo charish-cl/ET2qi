@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "za2el/cULwTphrD4mdRQZEXEXClXU4lY3pwIqH1yr41TYJoSaRxv5aBsiouVI8u5LNq60Lv1+MG3GvTnLw2Raw==",
+  "dgSpecHash": "4SqemsXHaz22a1yEnuOgncyO9jKFjihlAFI+XYTEeQRrioP/+dFnCpH7q1MUVVFqRsVETXXBgvett6Ur26I6xg==",
   "success": true,
   "projectFilePath": "D:\\UnityProject\\ET2qi\\ThirdParty\\ETTask\\ETTask.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\47643\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\47643\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\47643\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

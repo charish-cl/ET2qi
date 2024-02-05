@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = Analyzer
 build_property.ProjectDir = D:\UnityProject\ET2qi\Tools\Analyzer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
