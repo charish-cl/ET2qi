@@ -31,6 +31,7 @@ namespace ET
             long instanceId = StartSceneConfigCategory.Instance.GetUnitCacheConfig(unitId).InstanceId;
             Other2UnitCache_GetUnit message = new Other2UnitCache_GetUnit() { UnitId = unitId };
             UnitCache2Other_GetUnit queryUnit = (UnitCache2Other_GetUnit) await MessageHelper.CallActor(instanceId,message);
+            //没有查询到
             if (queryUnit.Error != ErrorCode.ERR_Success || queryUnit.EntityList.Count <= 0)
             {
                 return null;
@@ -43,6 +44,7 @@ namespace ET
                 return null;
             }
             scene.GetComponent<UnitComponent>().AddChild(unit);
+            //把Unit的其它数据挂载上
             foreach (Entity entity in queryUnit.EntityList)
             {
                 if (entity == null || entity is Unit)
@@ -99,7 +101,7 @@ namespace ET
             
             message.EntityTypes.Add(unit.GetType().FullName);
             message.EntityBytes.Add(MongoHelper.ToBson(unit));
-            
+            //序列化
             foreach ((Type key,Entity entity) in unit.Components)
             {
                 if (!typeof (IUnitCache).IsAssignableFrom(key))

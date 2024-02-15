@@ -80,6 +80,7 @@ namespace ET
             Unit unit = await UnitCacheHelper.GetUnitCache(gateMapComponent.Scene, player.UnitId);
             
             bool isNewUnit = unit == null;
+            //新玩家
              if (isNewUnit)
             {
                 unit =  UnitFactory.Create(gateMapComponent.Scene, player.UnitId, UnitType.Player);

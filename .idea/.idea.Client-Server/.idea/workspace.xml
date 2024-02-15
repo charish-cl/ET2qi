@@ -27,16 +27,18 @@
 }</component>
   <component name="ProjectId" id="2ayp1xev0CcC5PyXrbOleXN2KJd" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;.NET Project.Server.App.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;rider.external.source.directories&quot;: [
@@ -125,10 +127,21 @@
       <workItem from="1705316869722" duration="3383000" />
       <workItem from="1705321136729" duration="3250000" />
       <workItem from="1706351636419" duration="1155000" />
+      <workItem from="1707820392520" duration="1548000" />
+      <workItem from="1707971230194" duration="17000" />
+      <workItem from="1707986091598" duration="147000" />
+      <workItem from="1707986719311" duration="848000" />
+      <workItem from="1707987602819" duration="66000" />
+      <workItem from="1707987777640" duration="1770000" />
     </task>
     <servers />
   </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
